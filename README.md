@@ -1,6 +1,6 @@
 # Image Processing & Pattern Recognition
 
-Lab exercises for an **Image Processing and Pattern Recognition** course, implemented in Python using **OpenCV**, **NumPy**, and **Matplotlib** inside Jupyter notebooks — covering the core building blocks of digital image processing, from color-space conversion through filtering, segmentation, and restoration.
+Lab exercises for an **Image Processing and Pattern Recognition** course, implemented in Python using **OpenCV**, **NumPy**, and **Matplotlib** inside Jupyter notebooks — covering the core building blocks of digital image processing, from color-space conversion through filtering, segmentation, and restoration etc.
 
 ---
 
